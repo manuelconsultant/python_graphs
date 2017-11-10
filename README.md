@@ -1,2 +1,2 @@
 # jupyter_graph
-basicgrah usign Jupyter notebook python 3
+basic graphs using Jupyter Notebook with Python 3
