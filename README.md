@@ -1,2 +1,7 @@
 # jupyter_graph
-basic graphs using Jupyter Notebook with Python 3
+
+Graphs give insight into pure data 
+
+
+se wiki for datails
+
