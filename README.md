@@ -3,5 +3,5 @@
 Graphs give insight into pure data 
 
 
-see wiki for datails
+see wiki for details
 
